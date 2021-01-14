@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yerkin</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **GraphQL**
-
 - 📫 How to reach me **yerkinmm@gmail.com**
 
 - ⚡ Fun fact **Chai over Coffee**
