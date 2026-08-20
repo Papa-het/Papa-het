@@ -74,9 +74,9 @@
       <text x="-3" y="163" class="sans" fill="url(#accent)" font-size="70" font-weight="800" letter-spacing="-2.5">Yerkin</text>
       <text x="-3" y="225" class="sans" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-2.5">Myrzabekov</text>
       <text x="0" y="270" class="sans" fill="#cbd5e1" font-size="19">Software engineer · systems thinker · lifelong builder</text>
-      <g transform="translate(0 301)">
+      <g transform="translate(0 282)">
         <path d="M9 0C4.6 0 1 3.6 1 8c0 6 8 14 8 14s8-8 8-14c0-4.4-3.6-8-8-8Zm0 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z" fill="#94a3b8"/>
-        <text x="27" y="16" class="mono" fill="#94a3b8" font-size="14">Almaty, Kazakhstan</text>
+        <text x="27" y="16" class="mono" fill="#94a3b8" font-size="14">Milan, Italy</text>
       </g>
     </g>
 
